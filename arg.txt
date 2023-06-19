@@ -1,0 +1,5 @@
+La méthode utilisée sera de créer un script bash pour installer vscode et vmware workstation. Lescript fonctionnera de la facon suivante:
+- On check si le programme est déja installé sinon on l'installe
+- On teste l'installation:
+     - Pour vmware on lance une vm a partir du script
+     - Pour vscode on ouvre un fichier texte a partir du script
